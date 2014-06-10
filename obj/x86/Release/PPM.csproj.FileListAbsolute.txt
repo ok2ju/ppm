@@ -1,0 +1,7 @@
+C:\Users\Nikita\AppData\Local\Temporary Projects\PPM\bin\Release\PPM.exe
+C:\Users\Nikita\AppData\Local\Temporary Projects\PPM\bin\Release\PPM.pdb
+C:\Users\Nikita\AppData\Local\Temporary Projects\PPM\obj\x86\Release\PPM.MainWindow.resources
+C:\Users\Nikita\AppData\Local\Temporary Projects\PPM\obj\x86\Release\PPM.Properties.Resources.resources
+C:\Users\Nikita\AppData\Local\Temporary Projects\PPM\obj\x86\Release\PPM.csproj.GenerateResource.Cache
+C:\Users\Nikita\AppData\Local\Temporary Projects\PPM\obj\x86\Release\PPM.exe
+C:\Users\Nikita\AppData\Local\Temporary Projects\PPM\obj\x86\Release\PPM.pdb

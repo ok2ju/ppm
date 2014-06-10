@@ -1,0 +1,24 @@
+C:\Users\Nikita\AppData\Local\Temporary Projects\PPM\bin\Debug\PPM.exe
+C:\Users\Nikita\AppData\Local\Temporary Projects\PPM\bin\Debug\PPM.pdb
+C:\Users\Nikita\AppData\Local\Temporary Projects\PPM\obj\x86\Debug\PPM.Properties.Resources.resources
+C:\Users\Nikita\AppData\Local\Temporary Projects\PPM\obj\x86\Debug\PPM.csproj.GenerateResource.Cache
+C:\Users\Nikita\AppData\Local\Temporary Projects\PPM\obj\x86\Debug\PPM.exe
+C:\Users\Nikita\AppData\Local\Temporary Projects\PPM\obj\x86\Debug\PPM.pdb
+C:\Users\Nikita\AppData\Local\Temporary Projects\PPM\obj\x86\Debug\PPM.MainWindow.resources
+D:\Work\Операционные системы и системное программирование\Лабораторная работа №1\PPM\obj\x86\Debug\PPM.exe
+D:\Work\Операционные системы и системное программирование\Лабораторная работа №1\PPM\obj\x86\Debug\PPM.pdb
+D:\Work\Операционные системы и системное программирование\Лабораторная работа №1\PPM\bin\Debug\PPM.exe
+D:\Work\Операционные системы и системное программирование\Лабораторная работа №1\PPM\bin\Debug\PPM.pdb
+D:\Work\Операционные системы и системное программирование\Лабораторная работа №1\PPM\obj\x86\Debug\PPM.MainWindow.resources
+D:\Work\Операционные системы и системное программирование\Лабораторная работа №1\PPM\obj\x86\Debug\PPM.Properties.Resources.resources
+D:\Work\Операционные системы и системное программирование\Лабораторная работа №1\PPM\obj\x86\Debug\PPM.csproj.GenerateResource.Cache
+D:\Лабораторная работа №1\PPM\obj\x86\Debug\PPM.exe
+D:\Лабораторная работа №1\PPM\obj\x86\Debug\PPM.pdb
+D:\Лабораторная работа №1\PPM\bin\Debug\PPM.exe
+D:\Лабораторная работа №1\PPM\bin\Debug\PPM.pdb
+D:\Лабораторная работа №1\PPM\obj\x86\Debug\PPM.csprojResolveAssemblyReference.cache
+D:\Лабораторная работа №1\PPM\obj\x86\Debug\PPM.MainWindow.resources
+D:\Лабораторная работа №1\PPM\obj\x86\Debug\PPM.Properties.Resources.resources
+D:\Лабораторная работа №1\PPM\obj\x86\Debug\PPM.csproj.GenerateResource.Cache
+D:\Документы\Books\Programming\C# books\C#\PPM Algorithm\PPM\obj\x86\Debug\PPM.exe
+D:\Документы\Books\Programming\C# books\C#\PPM Algorithm\PPM\obj\x86\Debug\PPM.pdb
